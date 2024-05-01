@@ -1,11 +1,8 @@
-// import logo from './logo.svg';
-import './App.css';
+import Body from './Components/Body';
 
 function App() {
   return (
-    <div className="App m-10 p-6 text-3xl">
-      Hello Everyone
-    </div>
+   <Body/>
   );
 }
 

@@ -5,7 +5,8 @@
 
    - Create React app
    - Configured TailwindCSS
-   - 
+   - Header
+   - Login Form
 
 
 
@@ -27,3 +28,15 @@
     - NetflixGPT
         - Search Bar
         - Movies Suggestions
+
+
+-  Doing
+    -src
+        - Component
+            - Login.js
+            - Body.js
+            - Header.js
+            - Browse.js
+
+
+        - utils
